@@ -24,12 +24,12 @@ git clone https://github.com/yourusername/blockchain.git
 
 - `git status`: Check the status of the working directory.
 - `git add [file]`: Stage changes for the next commit.
-- `git commit -m "[message]": Commit staged changes with a descriptive message.
+- `git commit -m "[message]"`: Commit staged changes with a descriptive message.
 
 ### Setup & Init
 
-- `git config --global user.name "[firstname lastname]": Set your name for version history.
-- `git config --global user.email "[valid-email]": Set your email for version history.
+- `git config --global user.name "[firstname lastname]"`: Set your name for version history.
+- `git config --global user.email "[valid-email]"`: Set your email for version history.
 
 ### Branch & Merge
 
