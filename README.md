@@ -16,6 +16,7 @@ To install the project, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/blockchain.git
+```
 
 ## Usage of Git Commands
 
